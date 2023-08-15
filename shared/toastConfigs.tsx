@@ -22,7 +22,7 @@ export const copyLinkToastConfig: UseToastOptions = {
         padding="15px 20px"
         textAlign="center"
       >
-        Share link copied to your clipboard.
+       kindly please Share link copied to your clipboard.
       </Box>
     );
   },
